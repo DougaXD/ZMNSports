@@ -35,7 +35,7 @@ nav{
 nav > a{
   color: white;
   text-decoration: none;
-  text-shadow: 0px 0px 5px rgba(0, 25, 51, 0.75);
+  text-shadow: 0px 0px 5px rgba(0, 25, 51, 0.555);
   font-weight: bolder;
   transition-duration: 0.4s;
   margin-left: 7px;
