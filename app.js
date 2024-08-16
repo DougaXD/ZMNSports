@@ -2,10 +2,9 @@ const baseUrl = 'https://v3.football.api-sports.io/';
 let infosTabela = {};
 
 async function buscarInfo() {
-    const ano = 2024;
     const params = {
         league: 71,
-        season: ano,
+        season: 2024,
     };
     const searchParams = new URLSearchParams(params);
     const endpoint = 'standings';
@@ -13,7 +12,7 @@ async function buscarInfo() {
         method: 'GET',
         headers: {
             'X-RapidAPI-Key': 'ba5b550c44c376c7cc5220e1777e1a18',
-            'X-RapidAPI-Host': 'v3.football.api-sports.io',
+            'X-RapidAPI-Host': "v3.football.api-sports.io",
         },
     };
 
@@ -39,3 +38,4 @@ async function buscarInfo() {
 }
 
 buscarInfo();
+
