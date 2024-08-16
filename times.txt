@@ -1,0 +1,20 @@
+Athletico-PR 134
+Atlético-GO 144
+Atlético-MG 1062
+Bahia 118
+Botafogo 120
+Bragantino 794
+Corinthians 131
+Criciúma 140
+Cruzeiro 135
+Cuiabá 1193
+EC Vitória 136
+Flamengo 127
+Fluminense 124
+Fortaleza 154
+Grêmio 130
+Internacional 119
+Juventude 152
+Palmeiras 121
+São Paulo 126
+Vasco 133
