@@ -1,0 +1,8 @@
+{
+  "name": "ZMN Sports",
+  "description": "Portal de futebol com notícias, resultados ao vivo, tabelas de classificação e cobertura dos principais campeonatos nacionais e internacionais.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
